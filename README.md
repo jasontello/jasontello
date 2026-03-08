@@ -20,13 +20,6 @@ Everything I build is created from scratch as a way to explore design, interacti
 
 ---
 
-## What I'm Working On
-
-• Building a minimal front-end portfolio  
-• Creating interactive UI experiments  
-• Learning more advanced front-end patterns and animations
-
----
 
 ## A Bit About Me
 
