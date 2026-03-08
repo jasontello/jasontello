@@ -24,7 +24,6 @@ Everything I build is created from scratch as a way to explore design, interacti
 ## A Bit About Me
 
 • I love movies. Favorite movies of the past year are, Sinners, Sentimental Value, Weapons, Chainsaw Man: Reze Arc  and One Battle after another.
-• I'm interested in creative tech and digital product design  
 • Background in biology and have worked for about 2 years in academic research labs during undergrad before transitioning into computer science  
 • Currently exploring front-end development and design engineering
 
