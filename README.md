@@ -6,8 +6,7 @@ I focus on frontend development and UI/UX design, building minimal websites that
 
 I'm currently working on personal projects and interactive web experiments to strengthen my front-end and design skills.
 
-Everything I build is created from scratch as a way to explore design, interaction, and modern web development.
-
+x
 ---
 
 ## Tools & Tech
