@@ -12,7 +12,6 @@ x
 ## Tools & Tech
 
 • HTML, CSS, JavaScript  
-• React  
 • UI/UX design with Figma  
 • Git & GitHub  
 • Basic animation and interaction design
